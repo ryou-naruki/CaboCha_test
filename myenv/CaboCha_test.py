@@ -1,0 +1,2 @@
+import MeCab
+import CaboCha
